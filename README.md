@@ -1,4 +1,4 @@
-## Advanced Autonomous Systems–Project 0 (training). Version 20 21. 1. 1
+## Advanced Autonomous Systems–Project 1 (training). Version 20 21. 1. 1
 
 ## Advanced Autonomous Systems – 2021
 
